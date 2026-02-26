@@ -1,4 +1,4 @@
-# ![Duck-ai-image-2026-02-26-10-01](https://github.com/user-attachments/assets/b5e7369c-621e-4124-9efe-a5fafc209f1e)
+# ![Duck-ai-image-2026-02-26-11-40](https://github.com/user-attachments/assets/b9659240-9b64-4de5-acc8-aa0af2083104)
 
 wUP automatise gssdp-discover pour la decouverte d'hote UPnP & wget pour le téléchargement des xml
 
