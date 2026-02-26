@@ -1,5 +1,5 @@
 # wUP
-wUP combine wget pour le techargement des xml & gssdp-discover pour la decouverte d'hote UPnP
+wUP automatise gssdp-discover pour la decouverte d'hote UPnP & wget pour le téléchargement des xml
 
 ## 🛠️ Outils
 
