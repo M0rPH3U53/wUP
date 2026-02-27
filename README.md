@@ -6,7 +6,7 @@ wUP automatise gssdp-discover pour la decouverte d'hote UPnP & wget pour le tél
 
 ```
 ┌─[m0rph3u5@parrot]─[~]  
-└──╼ $sudo apt install gssdp-tools wget
+└──╼ $sudo apt install gssdp-tools gupnp-tools wget
 ```
 ## 👁️ Demo
 
