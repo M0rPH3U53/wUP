@@ -24,12 +24,12 @@ RESET='\033[0m'
 BLANC='\033[1;37m'
 JAUNE='\033[0;33m'
 
+# Interface reseau
 echo -ne "${BLEU}[i]${RESET} ${BLANC}Interface:${RESET} "
-
 read interface
 
+# Timeout execution temp de scan
 echo -ne "${BLEU}[i]${RESET} ${BLANC}Timeout:${RESET} "
-
 read timeout
 
 # Découverte réseau d'appareil UPnP
