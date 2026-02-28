@@ -1,6 +1,6 @@
 # <img width="602" height="750" alt="reduit" src="https://github.com/user-attachments/assets/2dde9591-1300-4a7f-9b5e-48d339837d50" />
 
-wUP automatise gssdp-discover pour la decouverte d'hote UPnP & wget pour le téléchargement des xml
+Protocole UPnP: https://fr.wikipedia.org/wiki/Universal_Plug_and_Play
 
 ## 🛠️ Outils
 
