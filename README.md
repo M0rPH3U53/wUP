@@ -2,6 +2,11 @@
 
 Protocole UPnP: https://fr.wikipedia.org/wiki/Universal_Plug_and_Play
 
+Outils utilisé
+
+- gssdp-discover
+- wget
+
 ## 🛠️ Outils
 
 ```
