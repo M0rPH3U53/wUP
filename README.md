@@ -1,7 +1,5 @@
 # <img width="602" height="750" alt="reduit" src="https://github.com/user-attachments/assets/2dde9591-1300-4a7f-9b5e-48d339837d50" />
 
-Protocole UPnP: https://fr.wikipedia.org/wiki/Universal_Plug_and_Play
-
 Outils utilisé
 
 🔍 gssdp-discover
