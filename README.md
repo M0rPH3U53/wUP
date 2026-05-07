@@ -28,8 +28,13 @@ Outils:
 :...::...::::.......:::..:::::::::                       
 
 by M0rPH3U53
+
+[+] Interfaces  
+ 
+192.168.1.0/24 --> enp0s8
+192.168.56.0/24 --> enp0s3
       
-[i] Interface: enp0s9
+[i] Interface: enp0s8
 [i] Timeout: 5
  
 🔍 Scan UPnP...100%
