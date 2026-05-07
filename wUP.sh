@@ -25,6 +25,15 @@ RESET='\033[0m'
 BLANC='\033[1;37m'
 JAUNE='\033[0;33m'
 
+# Affiche interfaces avec adresse réseaux
+IP=$(ip route | grep -E '[0-9]' | grep -v default | awk '{print $1 " --> " $3}')
+
+echo -ne "${VERT}[+]${RESET} ${BLANC}Interfaces${RESET} "
+echo " "
+echo " "
+echo "${IP}"
+echo " "
+
 # Interface reseau
 echo -ne "${BLEU}[i]${RESET} ${BLANC}Interface:${RESET} "
 read interface
