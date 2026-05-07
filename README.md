@@ -31,8 +31,8 @@ by M0rPH3U53
 
 [+] Interfaces  
  
-192.168.1.0/24 --> enp0s8
-192.168.56.0/24 --> enp0s3
+enp0s8 --> 192.168.1.0/24
+enp0s3 --> 192.168.56.0/24
       
 [i] Interface: enp0s8
 [i] Timeout: 5
