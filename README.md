@@ -37,7 +37,9 @@ enp0s3 --> 192.168.56.0/24
 [i] Timeout: 5
  
 🔍 Scan UPnP...100%
- 
+
+[+] Fichier XML
+
 📥 http://192.168.1.14:8888/ssdp/device-desc.xml
 📥 http://192.168.1.1:60000/8ed8a4a5/gatedesc.xml
 ```
