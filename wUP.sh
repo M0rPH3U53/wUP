@@ -55,7 +55,7 @@ if [ -z "${urls}" ]; then
 fi
 
 echo " "
-
+echo -ne "${VERT}[+]${RESET} ${BLANC}Fichier XML${RESET} "
 # Telechargement des fichiers xml
 for url in ${urls}; do
    	echo "📥 ${url}"
