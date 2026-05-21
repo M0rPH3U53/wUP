@@ -1,9 +1,9 @@
 # <img width="602" height="750" alt="reduit" src="https://github.com/user-attachments/assets/2dde9591-1300-4a7f-9b5e-48d339837d50" />
 
-| outils |
-| --- |
-| 🔍 gssdp-discover |
-| 📥 wget |
+| Outils | URLs |
+| --- | --- |
+| 🔍 gssdp-discover | https://github.com/GNOME/gupnp-tools/tree/master |
+| 📥 wget | https://www.gnu.org/software/wget/ |
 
 ## 🛠️ Outils
 
