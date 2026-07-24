@@ -43,3 +43,6 @@ enp0s3 --> 192.168.56.0/24
 📥 http://192.168.1.14:8888/ssdp/device-desc.xml
 📥 http://192.168.1.1:60000/8ed8a4a5/gatedesc.xml
 ```
+## XML
+
+<img width="739" height="877" alt="Capture du 2026-07-24 13-21-52" src="https://github.com/user-attachments/assets/6cfce4b8-25dc-478c-b42b-4456f0f51996" />
